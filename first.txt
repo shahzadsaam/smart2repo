@@ -1,0 +1,2 @@
+this example for local repository conact to remote repostory 
+this is example for smart git remote 
